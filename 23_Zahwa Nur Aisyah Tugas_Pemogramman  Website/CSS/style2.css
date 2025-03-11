@@ -1,0 +1,36 @@
+nav ul li a {
+  margin-right: 30px;
+  padding: 5px;
+  border-radius: 20px;
+  transition: 0.8 ease-in-out;
+  
+}
+
+nav ul li a:hover{
+  background-color: rgb(175, 28, 99);
+  border-radius: 20px;
+  
+}
+.box-we{
+  margin-top: 10px;
+  text-align: center;
+  padding: 200px;
+}
+
+.box-wo{
+  margin-top: -30px;
+  text-align: center;
+  padding: 200px;
+}
+
+.box-wi{
+  margin-top: 150px;
+  text-align: center;
+  padding: 200px;
+}
+
+.box-wg{
+  margin-top: 150px;
+  text-align: center;
+  padding: 200px;
+}

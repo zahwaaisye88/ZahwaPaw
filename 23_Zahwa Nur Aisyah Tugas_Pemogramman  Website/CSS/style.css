@@ -1,0 +1,197 @@
+body{
+  background: linear-gradient(rgb(26, 26, 29),rgb(59, 28, 50),rgb(255, 157, 227));
+}
+
+.box-navy img{
+    border-radius: 50%;
+    width: 20%;
+    rotate: 15deg;
+    margin-top: 150px;
+
+}
+.box-profile {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+nav ul li a {
+  margin-right: 30px;
+  padding: 5px;
+  border-radius: 20px;
+  transition: 0.8 ease-in-out;
+  
+}
+
+nav ul li a:hover{
+  background-color: rgb(175, 28, 99);
+  border-radius: 20px;
+  
+}
+
+.box-profile h2{
+  margin-top: 20px;
+    color: white;
+    font: italic 35px "Fira Sans", serif;
+}
+
+.box-profile h5{
+  color: white;
+  transform: translateY(-10px);
+}
+
+.box-about{
+  background: linear-gradient(rgb(255, 255, 255),rgba(255, 255, 255, 0.86),rgba(255, 157, 227, 0.377));
+  padding-bottom: 200px;
+  transform: translateY(-10px);
+  text-align: center;
+  margin-top: -10px;
+}
+
+.box-about p{
+  text-align: justify;
+}
+
+.box-about h2{
+  margin-top: -10px;
+  font-style: italic;
+}
+
+.box-utama{
+  background-color: rgb(66, 11, 43);
+  color: white;
+  border-radius: 10px 100px / 120px;
+  padding: 80px;
+  margin-top: -27px;
+
+}
+
+.box-utama h4{
+  margin-top: -50px;
+}
+
+
+.box-utama p{
+  transform: translateY(45px);
+  margin-top: -10px;
+}
+
+.box-ob svg{
+  transform: translateX(-80px) translateY(29px)
+}
+
+.box-utamadua{
+  background-color: rgb(66, 11, 43);
+  color: white;
+  border-radius: 10px;
+  padding: 19px;
+  margin-top: 42px;
+}
+
+.box-utamadua h4{
+  margin-top: -25px;
+}
+
+.box-utamadua svg{
+  transform: translateX(-150px) translateY(9px)
+
+}
+
+.box-PO h4{
+  background-color: rgb(66, 11, 43);
+  color: white;
+  border-radius: 10px;
+  padding: 27.7px;
+  margin-top: 7px;
+}
+
+.box-PO svg{
+  transform: translateX(-120px) translateY(67px)
+}
+
+
+
+.offcanvas-body p{
+  text-align: justify;
+}
+
+.box-skill{
+  margin-top: 5px;
+  background-color: rgb(125, 28, 74);
+  padding: 20px;
+  border-radius: 10px;
+  height: 80px;
+  width: 300px;
+  align-items:center
+}
+
+.box-skill h4{
+  margin-top: 10px;
+  align-content: center;
+  text-align: center;
+  color: white;
+  
+}
+
+.box-skill img{
+  width: 300px;
+  margin-top: -80px;
+  margin-left: -18px;
+  box-shadow: 150px;
+}
+
+.progress{
+  width: 300px;
+  margin-bottom: 15px;
+
+}
+
+.box-ops{
+  margin-right: -10px ;
+  margin-top: 250px;
+}
+
+.container-col{
+  margin-top: 200px;
+
+}
+
+.container-col h2{
+  color: white;
+  font-family: 'Franklin Gothic Medium';
+  text-align: center;
+  margin-top: 200px;
+  
+}
+
+.card{
+  margin-top: 40px;
+  align-items: center;
+  border-style:dashed;
+  border-color: rgb(177, 30, 116);
+
+}
+
+.footer{
+  margin-top: 100px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
